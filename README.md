@@ -23,7 +23,7 @@ The project utilizes the following dependencies:
 
 - React Router DOM
 - React Hooks
-- Houses Context
+- React Context
 
 ## Contributing
 
