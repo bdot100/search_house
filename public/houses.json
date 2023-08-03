@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "address": "12 Valley of Kings, Geneva",
+        "country": "Switzerland",
+        "description": "This house has been designed and built to an impeccable standartd offering luxurious and elegant living. The accomodation is arranged over four floors comprising a large entrance hall, living room with tall sash windows, dining room, study and WC on the groud floor.",
+        "price": 900000,
+        "photo": "612612"
+    },
+    {
+        "id": 1,
+        "address": "68, Sango-Poly Road",
+        "country": "Nigeria",
+        "description": "This house has been designed and built to an impeccable standartd offering luxurious and elegant living. The accomodation is arranged over four floors comprising a large entrance hall, living room with tall sash windows, dining room, study and WC on the groud floor.",
+        "price": 900000,
+        "photo": "139612"
+    },
+    {
+        "id": 1,
+        "address": "Raolak hub, Iyana-church",
+        "country": "Nigeria",
+        "description": "This house has been designed and built to an impeccable standartd offering luxurious and elegant living. The accomodation is arranged over four floors comprising a large entrance hall, living room with tall sash windows, dining room, study and WC on the groud floor.",
+        "price": 900000,
+        "photo": "106399"
+    },
+    {
+        "id": 1,
+        "address": "15 Abegbe Estate, Iyana-church",
+        "country": "Nigeria",
+        "description": "This house has been designed and built to an impeccable standartd offering luxurious and elegant living. The accomodation is arranged over four floors comprising a large entrance hall, living room with tall sash windows, dining room, study and WC on the groud floor.",
+        "price": 900000,
+        "photo": "139612"
+    }
+]
